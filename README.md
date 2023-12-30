@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emaad</h1>
+<h1 align="center">Hi 👋, I'm Emaad known as ELLIOT</h1>
 <h3 align="center">I am a Software Engineer, based in Morocco . I'm passionate about Software Engineering, 
 I've had the pleasure of working with a diverse toolkit, spanning PHP with Laravel, C++, Python, Dart and Java </h3>
 
