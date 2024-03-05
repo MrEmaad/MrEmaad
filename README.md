@@ -1,5 +1,5 @@
 <h1 align="center">I'm Emaad better known as "mr.em4ad"</h1>
-<h3 align="center">I am a Software Engineer Student, based in Morocco . I'm passionate about Software Engineering, 
+<h3 align="center">I am a Computer Science Student, based in Morocco . I'm passionate about Software Engineering, 
 I've had the pleasure of working with a diverse toolkit, spanning C++, Python, PHP with Laravel, Dart and Java </h3>
 
 <h3 align="left">Connect with me:</h3>
