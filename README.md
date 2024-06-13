@@ -1,4 +1,4 @@
-<h1 align="center">I'm mr.em4ad also known as "samSepi0l"</h1>
+<h1 align="center">I'm EM4AD also known as "samSepi0l"</h1>
 <h3 align="center">I am a Computer Science Student, based in Morocco . I'm passionate about Hardware & Software Engineering, 
 I've had the pleasure of working with a diverse toolkit, spanning C++, Python, PHP with Laravel, Dart and Java </h3>
 
