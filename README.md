@@ -1,14 +1,7 @@
 <h1 align="center">I'm EM4AD also known as "raph4el"</h1>
 <h3 align="center">I am a Computer Science Student, based in Morocco . I'm passionate about Hardware & Software Engineering, 
 I've had the pleasure of working with a diverse toolkit, spanning C++, Python, PHP with Laravel, Dart and Java </h3>
-<h3 align="center">
-  _____  __  __  _  _      _     ____  
- | ____||  \/  || || |    / \   |  _ \ 
- |  _|  | |\/| || || |_  / _ \  | | | |
- | |___ | |  | ||__   _|/ ___ \ | |_| |
- |_____||_|  |_|   |_| /_/   \_\|____/ 
-                                       
- </h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mr.em4ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.em4ad" height="30" width="40" /></a>
